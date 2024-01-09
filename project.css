@@ -1,0 +1,340 @@
+/* Header */
+.new-year {
+    color: black;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 380;
+    line-height: normal;
+    width: 259px
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.party-celebration {
+    color: black;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 85px;
+}
+
+.new-year-banner {
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    ;
+    margin: 50px 140px;
+
+
+}
+
+.OFF-discount {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 5px;
+}
+
+.holidays {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 2px;
+
+}
+
+.catagories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 5px;
+}
+
+.new-year-pic {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: 0px 399px;
+}
+
+/* main */
+
+.vectorr {
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 25px 140px;
+}
+
+.group-item {
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    margin: 68px 138px 68px 830px;
+    flex-shrink: 0;
+}
+
+.welcome {
+    color: pink;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+}
+
+
+.welcome-to-midnight {
+    color: black;
+    font-family : Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+}
+
+.join-now {
+    color: black;
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.dolor-sit-amet {
+    color: black;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px
+}
+
+.text-primary {
+    color: red;
+}
+
+.third-position {
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+}
+
+.date {
+    color: #070211;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 0px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.place {
+    color: #070211;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 0px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.time {
+    color: #070211;
+    font-family: sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 0px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.button {
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background-color: #F00;
+    padding: 10px 8px;
+    margin-bottom: 10%;
+    margin-left: 50%;
+}
+
+.elipase {
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    margin: 5px 555px;
+}
+
+.best-offer {
+    color: #F00;
+    text-align: left;
+     font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.coming {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.description {
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    z-index: 1;
+    position: relative;
+}
+
+.year-2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: right;
+    z-index: 2;
+    position: absolute;
+}
+
+.dolor-2 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: right;
+}
+
+.group-96 {
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+    margin: 0 10px 25px 1480px;
+}
+
+.function {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.holiday-sales {
+    color: black;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.dolor-3 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    width: 1050px;
+    padding: 2px 350px 15px 350px;
+}
+.allimage1{
+    grid-auto-flow: column;
+}
+.rectangle-1 {
+    width: 429px;
+    height: 433px;
+    border-radius: 16px 16px 0px 0px;
+    float: right;
+    margin-right: 10%;
+}
+
+.group-44{
+    float: right;
+    z-index: 2;
+    
+}
+.rectangle-2{
+    width: 1360px;
+    margin-left: 100px;
+    z-index: 1;   
+}
+.group-75{
+    position:absolute;
+    z-index: 2;
+    float: left;
+}
+.text{
+    margin-left: 10%;
+    font-size: 25px;
+}
+.image-1strow,
+.image-2ndrow {
+
+margin-left: 10%;
+}
+.image{
+    width: 400px;
+}
